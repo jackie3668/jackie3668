@@ -1,5 +1,5 @@
-<h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑰 𝒂𝒎 𝑱𝒂𝒄𝒌𝒊𝒆</h1>
-<h3 align="center">ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴜɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
+<h1 align="center">✨ 𝑯𝒆𝒍𝒍𝒐 𝑰 𝒂𝒎 𝑱𝒂𝒄𝒌𝒊𝒆 ✨</h1>
+<h3 align="center">💫 ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴜɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💫</h3>
 
 - 💍 I’m currently working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jackie.shen@mail.utoronto.ca**
 
-- ⚡ Fun fact **I have a hairless Sphynx cat**
+- 🐈 Fun fact **I have a hairless Sphynx cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
