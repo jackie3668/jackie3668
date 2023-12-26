@@ -3,13 +3,13 @@
 
 - 💍 I’m currently working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
 
-- ☕ I’m currently learning **React Native**
+- 🔮 I just finished Celestial Tarot. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a tarot reading now](https://jackie3668.github.io/celestial-tarot/)
 
-- 🔮 I just finished Celestial Tarot. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a reading now!](https://jackie3668.github.io/celestial-tarot/)
+- ☕ I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://jackie3668.github.io/portfolio/](https://jackie3668.github.io/portfolio/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, League of Legends**
 
 - 📫 How to reach me **jackie.shen@mail.utoronto.ca**
 
