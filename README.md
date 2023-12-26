@@ -1,11 +1,11 @@
 <h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑰 𝒂𝒎 𝑱𝒂𝒄𝒌𝒊𝒆</h1>
 <h3 align="center">ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴜɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-- 💍 I’m currently working on [Glimmering Grove - Jewelry E-Commerce Website](https://jackie3668.github.io/glimmering-grove/)
+- 💍 I’m currently working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
 
 - ☕ I’m currently learning **React Native**
 
-- 🔮 I just finished [Celestial Tarot](https://jackie3668.github.io/celestial-tarot/)
+- 🔮 I just finished Celestial Tarot. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a reading now!](https://jackie3668.github.io/celestial-tarot/)
 
 - 👨‍💻 All of my projects are available at [https://jackie3668.github.io/portfolio/](https://jackie3668.github.io/portfolio/)
 
