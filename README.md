@@ -1,7 +1,8 @@
 <h1 align="center">✨ 𝑯𝒆𝒍𝒍𝒐 𝑰 𝒂𝒎 𝑱𝒂𝒄𝒌𝒊𝒆 ✨</h1>
 <h3 align="center">💫 ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴜɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💫</h3>
+- 🌟 I’m currently working on a daily horoscope generator named [Stardust](https://jackie3668.github.io/stardust/)
 
-- 💍 I’m currently working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
+- 💍 I recently finished working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
 
 - 🔮 I just finished Celestial Tarot. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a tarot reading now](https://jackie3668.github.io/celestial-tarot/)
 
