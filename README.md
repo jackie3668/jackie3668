@@ -3,9 +3,9 @@
 
 - 🌟 I’m currently working on a daily horoscope generator named Stardust. [Click to check out your daily horoscope](https://jackie3668.github.io/stardust/)
 
-- 💍 I recently finished working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
+- 💍 I just recently finished working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
 
-- 🔮 I just finished Celestial Tarot. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a tarot reading now](https://jackie3668.github.io/celestial-tarot/)
+- 🔮 I made Celestial Tarot in 2023. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a tarot reading now](https://jackie3668.github.io/celestial-tarot/)
 
 - ☕ I’m currently learning **React Native**
 
