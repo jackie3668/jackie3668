@@ -9,7 +9,7 @@
 
 - ☕ I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available [HERE](https://jackie3668.github.io/portfolio-2024/))
+- 👨‍💻 All of my projects are available [here](https://jackie3668.github.io/portfolio-2024/)
 
 - 💬 Ask me about **React, League of Legends**
 
