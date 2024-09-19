@@ -3,6 +3,8 @@
 
 <h2 align="center">👨‍💻 <a href="https://jackie3668.github.io/portfolio-2024/" style="color:#ff6f61; text-decoration:underline;">**Check Out All of My Projects Here!**</a> 👨‍💻</h2>
 
+- 🌿 I recently made an immersive journal app that allows you to customize your own ambiance using different ambient noises, typing sounds, and animated backgrounds. [Try it out here](https://soul-serenity-journal-app.vercel.app/)
+
 - 🔮 I made Celestial Tarot in 2023. A digital tarot reading app powered by powered by GPT-3.5 Turbo. [Get a tarot reading now](https://jackie3668.github.io/celestial-tarot-2.0/)
 
 - 💍 I just recently finished working on a jewelry e-commerce website named [Glimmering Grove](https://jackie3668.github.io/glimmering-grove/)
