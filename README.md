@@ -1,7 +1,7 @@
 <h1 align="center">✨ 𝑯𝒆𝒍𝒍𝒐 𝑰 𝒂𝒎 𝑱𝒂𝒄𝒌𝒊𝒆 ✨</h1>
 <h3 align="center">💫 ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴜɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💫</h3>
 
-<h2 align="center">👨‍💻 <a href="https://jackie3668.github.io/portfolio-2024/" style="color:#ff6f61; text-decoration:underline;">**Check Out All of My Projects Here!**</a> 👨‍💻</h2>
+<h2 align="center">👨‍💻 <a href="https://jackie3668.github.io/portfolio-2024/" style="color:#ff6f61; text-decoration:underline;">**Check Out Some of My Projects Here!**</a> 👨‍💻</h2>
 
 - 🌿 I recently made an immersive journal app that allows you to customize your own ambiance using different ambient noises, typing sounds, and animated backgrounds. [Try it out here](https://soul-serenity-journal-app.vercel.app/)
 
@@ -13,7 +13,7 @@
 
 - ☕ I’m currently learning **Three.js**
 
-- 💬 Ask me about **React, League of Legends**
+- 💬 Ask me about **League of Legends**
 
 - 📫 How to reach me **jackie.shen@mail.utoronto.ca**
 
