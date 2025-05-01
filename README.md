@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Jackie 👩‍💻 ✨ </h1>
 
 <p align="center">
-  <a href="https://jackie3668.github.io/portfolio-2024/" target="_blank">
+  <a href="https://www.dev-jackie.my" target="_blank">
     <img src="https://img.shields.io/badge/🔗 View My Portfolio-1C2541?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B132B" />
   </a>
 </p>
